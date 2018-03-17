@@ -1,0 +1,34 @@
+.showcase{
+	background: url('../img/photoshop.jpg') no-repeat;
+	background-position: center;
+	height: 700px;
+	padding: 140px 100px;
+	color:#ffffff;
+}
+
+.showcase hr{
+	border-width: 3px;
+	border-color: #6666ff;
+}
+
+.showcase p{
+	font-size: 25px;
+}
+
+.section{
+	height: 400px;
+	padding: 100px 100px;
+	color:#ffffff; 
+}
+
+.section i{
+	font-size: 40px;
+}
+
+.section p{
+	font-size: 25px;
+}
+
+.section img{
+	width:100%;
+}

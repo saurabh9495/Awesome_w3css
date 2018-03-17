@@ -1,2 +1,3 @@
-# awesome_w3css_test
+# Awesome_w3css
 simple page created by using w3.css containing some images and some random text ...
+The website is live at https://saurabh9495.github.io/Awesome_w3css/
